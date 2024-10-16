@@ -1,7 +1,7 @@
 # Проект Погодного приложения
 
-[Ccылка на сайт](https://weatherappksylika.netlify.app/)
-Открывается тока с VPN(
+[Ccылка на сайт]([https://ksylika.github.io/Weather-APP/)
+
 
 ## О проекте
 
